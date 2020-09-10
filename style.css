@@ -1,0 +1,21 @@
+ body{
+                color: white;
+                text-align: center;
+                font-family:'Courier New'
+            }
+            a{
+                color: white;
+                text-decoration: none;
+            }
+           .btn{
+                background-color: #262626;
+                border: none;
+                color: white;
+                padding: 8px 8px;
+                font-size: 10px;
+                cursor: pointer;
+           }
+           .btn:hover {
+  background-color: seagreen;
+  transition-duration: 0.8s;
+}
