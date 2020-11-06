@@ -6,12 +6,9 @@
  
  This extension built on `JavaScript` blocks network requests from some of the advertising sites 🚫
 ### Follow the steps given below right away to setup your chrome extension! 👇
-- 🔰 ZIP file and extract.
-- Open Chrome and type `chrome://extensions` and make sure that the `Developer mode` is on.
-- Click on `Load unpacked` and select the root folder which contains the extracted files.
+First of all download my code to your computer and unzip the zip folder.
+So, basically we are going to upload our extension to chrome.
 
- !
- and *Voila!* , now you have your ad blocking chrome extension 🌟
  
  This project is made by Mohammad Tanzil Idrisi
  Video will be soon uploaded
