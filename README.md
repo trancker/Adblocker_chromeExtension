@@ -1,7 +1,7 @@
 # Adblocker_chromeExtension_🧩
 ####  *Tanzil said* 👨‍🏫 once said,
 > *❝ Advertising is the rattling of a stick inside a swill bucket ❞*
- 
+> Hi how are you?
  No worries! We won't let you fall into debt traps and save you from most of the annoying advertisements! 🙃
  
  This extension built on `JavaScript` blocks network requests from some of the advertising sites 🚫
